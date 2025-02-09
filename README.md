@@ -80,4 +80,4 @@ The following rules define how subgenres are selected when generating the playli
 ### Requirements for smooth use of the script
 
 1. **User must manually set the playlist (subgenre) and genre names in the variables section at the beginning of the script for proper weight and other calculations**
-2. **User must make sure that enough songs exist in each playlist for more balanced end result. Six or more songs should do for each playlist but having more is always better.**
+2. **User must make sure that enough songs exist in each playlist for balanced end result. Six or more songs should do for each playlist but having more is always better. If user doesn't have enough songs, then the weight should be small for those playlists**
